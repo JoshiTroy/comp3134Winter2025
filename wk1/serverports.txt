@@ -14,3 +14,8 @@ Bits: This range uses 16 bits to represent.
 143 (IMAP)
 443 (HTTPS)
 3306 (MySQL)
+
+
+
+Troy Joshua Del Rosario 
+101451624
