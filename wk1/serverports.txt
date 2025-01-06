@@ -1,0 +1,16 @@
+Server Port: A port is like a door on a server where data enters and exits, helping computers talk to each other.
+
+Port Range: Ports range from 0 to 65535.
+
+Bits: This range uses 16 bits to represent.
+10 Common Ports:
+20 (FTP Data)
+21 (FTP Control)
+22 (SSH)
+25 (SMTP)
+53 (DNS)
+80 (HTTP)
+110 (POP3)
+143 (IMAP)
+443 (HTTPS)
+3306 (MySQL)
