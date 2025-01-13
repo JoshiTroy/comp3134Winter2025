@@ -1,0 +1,39 @@
+Domain: github.com
+IP Address: 140.82.116.4
+Country: United States
+Region: California
+City: San Francisco
+Latitude: 37.7833
+Longitude: -122.4167
+-------------------------------------------------------------------------------------------------------
+Domain: google.com
+IP Address: 142.251.46.238
+Country: United States
+Region: California
+City: Mountain View
+Latitude: 37.4237
+Longitude: -122.085
+-------------------------------------------------------------------------------------------------------
+Domain: wikipedia.org
+IP Address: 198.35.26.96
+Country: United States
+Region: Virginia
+City: Reston
+Latitude: 38.9581
+Longitude: -77.357
+-------------------------------------------------------------------------------------------------------
+Domain: amazon.com
+IP Address: 205.251.242.103
+Country: United States
+Region: Virginia
+City: Ashburn
+Latitude: 39.0438
+Longitude: -77.4875
+-------------------------------------------------------------------------------------------------------
+Domain: microsoft.com
+IP Address: 20.236.44.162
+Country: United States
+Region: Washington
+City: Redmond
+Latitude: 47.2345
+Longitude: -119.8526

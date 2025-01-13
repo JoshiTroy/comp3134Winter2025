@@ -1,0 +1,2 @@
+traceroute to 143.198.37.170 (143.198.37.170), 30 hops max, 60 byte packets
+ 1  Comp3134-Winter2025 (143.198.37.170)  0.042 ms  0.012 ms  0.010 ms
