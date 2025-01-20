@@ -1,0 +1,17 @@
+Domain Registration Information for roots.com:
+
+Registrar: Nom-iq Ltd. dba COM LAUDE
+Registration Date: March 14, 1995
+Expiration Date: February 1, 2029
+Status: clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited
+
+Name Servers:
+- nsgbr.comlaude.co.uk
+- nssui.comlaude.ch
+- nsusa.comlaude.net
+
+Registrant Contact:
+- Organization: Roots Corporation
+- State: Ontario
+- Country: Canada
+- Email: email@anonymised.email

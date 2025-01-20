@@ -1,0 +1,19 @@
+root@Comp3134-Winter2025:~# ping 8.8.8.8 > ping_result.txt
+^Croot@Comp3134-Winter2025:~# cat ping_result.txt
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=59 time=1.71 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=59 time=0.655 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=59 time=0.630 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=59 time=0.606 ms
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=59 time=0.624 ms
+64 bytes from 8.8.8.8: icmp_seq=6 ttl=59 time=0.612 ms
+64 bytes from 8.8.8.8: icmp_seq=7 ttl=59 time=0.632 ms
+64 bytes from 8.8.8.8: icmp_seq=8 ttl=59 time=0.615 ms
+64 bytes from 8.8.8.8: icmp_seq=9 ttl=59 time=0.620 ms
+64 bytes from 8.8.8.8: icmp_seq=10 ttl=59 time=0.709 ms
+64 bytes from 8.8.8.8: icmp_seq=11 ttl=59 time=0.611 ms
+
+--- 8.8.8.8 ping statistics ---
+11 packets transmitted, 11 received, 0% packet loss, time 10199ms
+rtt min/avg/max/mdev = 0.606/0.729/1.710/0.311 ms
+root@Comp3134-Winter2025:~#
